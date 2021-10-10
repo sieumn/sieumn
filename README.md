@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sieun%20Park&fontSize=70)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sieumn&count_private=true&show_icons=true&hide=stars"/></a>
+</p>
+
 <!--
 <p align="center">
   <a herf="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieumn"/></a>
@@ -39,8 +43,3 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsieumn&count_bg=%23B1DF44&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 -->
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sieumn&count_private=true&show_icons=true&hide=stars"/></a>
-</p>
-
