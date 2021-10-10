@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sieun%20Park&fontSize=70)
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sieumn"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=sieumn&count_private=true&show_icons=true&hide=stars"/></a>
 </p>
-  
+
+<p align="center">
+  <a herf="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sieumn"/></a>
+</p>
+
 <h3 align="center">🛠 Tech Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
