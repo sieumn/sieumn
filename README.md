@@ -4,7 +4,6 @@
 
 <p align="left">
   
-  🔥 Aim for challenge and growth. <br>
   ✍🏻 Try to write down what I've learned in a variety of interests. <br>
   👩🏻‍💻 Working as a Cloud Engineer at Samsung Electronics. <br>
   👩🏻‍🎓 Studied EE at POSTECH, South Korea. <br>
